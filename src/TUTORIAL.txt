@@ -1,0 +1,10 @@
+Move Up -> Arrow Up
+Move Down -> Arrow Down
+Move Right -> Arrow Right
+Move Left -> Arrow Left
+Attack -> A
+Cure -> C
+Use Special Action -> S
+Select Target -> R | Single Mouse Click
+Select Main Hero -> Space | Double Mouse Click
+End Turn -> E
